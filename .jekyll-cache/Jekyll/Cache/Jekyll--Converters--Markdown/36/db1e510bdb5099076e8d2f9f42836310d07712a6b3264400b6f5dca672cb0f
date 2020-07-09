@@ -1,0 +1,9 @@
+I"<ul>
+  <li>Setting up and migration of applications to Kubernetes clusters for better scaling and stability.</li>
+  <li>Created Terraform modules to maintain the infrastructure components like Network, Firewall rules, Brokers, Kubernetes, VMs and Databases.</li>
+  <li>Developer/Manager of Communication Architecture for Bookmyshow. Developed and ported legacy architecture to a GRPC based new system.</li>
+  <li>Ansible playbook roles to automate application configuation.</li>
+  <li>Created Grpc/Protocol buffers based rule engine for internal systems.</li>
+  <li>Wrote SMPP server for protocol translation from http to smpp.</li>
+</ul>
+:ET

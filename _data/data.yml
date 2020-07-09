@@ -1,0 +1,111 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Abishek Kumar
+    tagline: Devops Engineer
+    avatar: avatar.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: abishekkumar92@gmail.com
+    phone: 8056247092
+    website: realnighthawk.me
+    linkedin: kumarabd
+    github: kumarabd
+    telegram: Abishek
+    gitlab:
+    bitbucket:
+    twitter: 'kumarabd'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Tamil
+        level: Native
+
+      - idiom: English
+        level: Professional
+
+      - idiom: Hindi
+        level: Professional
+
+    interests:
+      - item: Football
+        link:
+
+      - item: Dota
+        link:
+
+      - item: Travelling
+        link:
+
+education:
+    - degree: Btech in Electrical Engineering
+      university: IIT,Indore
+      time: 2014 - 2018
+      
+experiences:
+    - role: Site Reliability Engineer
+      time: 2018 - Present
+      company: Bookmyshow, India
+      details: |
+        - Setting up and migration of applications to Kubernetes clusters for better scaling and stability.
+        - Created Terraform modules to maintain the infrastructure components like Network, Firewall rules, Brokers, Kubernetes, VMs and Databases.
+        - Developer/Manager of Communication Architecture for Bookmyshow. Developed and ported legacy architecture to a GRPC based new system.
+        - Ansible playbook roles to automate application configuation.
+        - Created Grpc/Protocol buffers based rule engine for internal systems.
+        - Wrote SMPP server for protocol translation from http to smpp.
+    - role: Summer Intern
+      time: 2016
+      company: I2R Industries, India
+      details: |
+        - Machine learning based project that predicted weather data based on soil data from sensors.
+        - Python and Arduino scripts to pull and process data and analyse from Thingspeak.
+    - role: Summer Intern
+      time: 2017
+      company: Maven Labs, India
+      details: |
+        - Worked with different AWS services including lambda functions to integrate workflow across different regions.
+projects:
+    title: Projects
+    intro: >
+      Here is a curated list of projects that I have experience on.
+    assignments:
+      - title: Meshery
+        link: "https://github.com/kumarabd/meshery"
+        tagline: "An open source CNCF project, that is focused on service mesh management plane."
+
+      - title: Appkit
+        link: "https://github.com/kumarabd/appkit"
+        tagline: "A golang based framework utility for developers."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Golang
+        level: 90%
+
+      - name: Javascript
+        level: 80%
+
+      - name: React & Angular
+        level: 60%
+
+      - name: HTML5 & CSS
+        level: 90%
+
+      - name: Linux/Shell
+        level: 85%
+
+      - name: Python
+        level: 90%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Abishek Kumar</a>
