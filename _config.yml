@@ -2,8 +2,8 @@
 
 # Site Settings
 title: My Resume
-url: 'realnighthawk.me'
-baseurl: 'realnighthawk.me' #change it according to your repository name
+url: 'realnighthawk.me/about/'
+baseurl: 'realnighthawk.me/about/' #change it according to your repository name
 description: Resume
 author: Abishek Kumar
 image: 'assets/images/pages.png'
